@@ -1,7 +1,7 @@
 import string
 
 alf = 'abcdefghijklmnopqrstuvwxyz'
-shift = -15
+shift = 15
 
 
 def crypt(text):
